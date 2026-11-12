@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+google-genai
+requests
+pillow
+plotly
+python-dotenv
